@@ -6,3 +6,9 @@
 	path = ghost/core/content/themes/source
 	url = ../../TryGhost/Source.git
 	ignore = all
+[submodule "ghost/core/content/themes/rqube"]
+	path = ghost/core/content/themes/rqube
+	url = git@github.com:rqube-io/ghost-theme.git
+[submodule "ghost/core/content/themes/headline"]
+	path = ghost/core/content/themes/headline
+	url = git@github.com:TryGhost/Headline.git
